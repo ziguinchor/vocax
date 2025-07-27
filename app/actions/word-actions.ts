@@ -3,7 +3,7 @@
 import type { Word, Category } from "@/types/index";
 import { initialWords, initialCategories } from "@/lib/sample-data";
 
-const API_URL = "http://localhost:5052/words.php";
+const API_URL = "https://words.afripamediaservice.de/words.php";
 const WORDS_STORAGE_KEY = "arabic_words_data_cache";
 const CATEGORIES_STORAGE_KEY = "arabic_categories_data_cache";
 
