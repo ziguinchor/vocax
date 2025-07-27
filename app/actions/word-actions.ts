@@ -58,16 +58,16 @@ function _normalizeWords(words: Word[]): Word[] {
 }
 
 function _eliminateDuplicates(words: Word[]): Word[] {
-  const seen = new Set<string>();
-  const out: Word[] = [];
-  for (const w of words) {
-    const key = w.text.toLowerCase().trim();
-    if (!seen.has(key)) {
-      seen.add(key);
-      out.push(w);
-    }
-  }
-  return out;
+  // const seen = new Set<string>();
+  // const out: Word[] = [];
+  // for (const w of words) {
+  //   const key = w.text.toLowerCase().trim();
+  //   if (!seen.has(key)) {
+  //     seen.add(key);
+  //     out.push(w);
+  //   }
+  // }
+  return words;
 }
 
 /* ---------------------------- API Helpers ---------------------------- */
