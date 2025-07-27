@@ -221,7 +221,7 @@ export async function toggleWordExpression(wordId: string) {
 
 export async function incrementEyeClickCount(wordId: string) {
   const resp = await apiPost("incrementEyeClickCount", { id: String(wordId) });
-  if (resp.success) await _refreshAllFromServer();
+  // if (resp.success) await _refreshAllFromServer();
   return resp;
 }
 
