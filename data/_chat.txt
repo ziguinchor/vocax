@@ -1,0 +1,1379 @@
+software crafters حرفيي البرمجيات
+some languages enforce indentation rules ( enforce تفرض )
+( enforce تفرض )
+you will have easier time reading the text (سيكون من الأسهل)
+chunk of code.
+retain the precision الحفاظ
+accomodate the value استيعاب
+incorporate static variables.
+discrepancies التناقضات
+when the app starts up
+laws & regulations القوانين والأنظمة(.
+level of granularity - مستوى التفاصيل. - مستوى الدقة
+we can not have any other access modifier in an interface declaration, that is the case with class too.
+strictly speeking
+in under a minute
+so to map a Map we use we use @MapKey in combination with @ElementCollection & @CollectionTable annotations
+in combination with بالاشتراك مع
+the moment you add this dependency ...; في اللحظة التي
+right most click on it
+once in a while من حين لآخر
+relay the error
+the opposit sort of things happen
+please notice that
+by convention static final variables are all caps separated by underscores
+in which case ( in this case )
+ideally with good development & testing effort we would want as minimal runtime exceptiosn as possible ( minimal x few.. )
+with the exception of باستثناء
+this is not mandatory هذا ليس إلزاميًا
+it might be worthwile toقد يكون من المفيد
+provisionning
+turn it into
+comes down to
+utility .
+integrity سلامة
+insights
+get insights about your cluster
+mimic that external usecase تقليد. محاكاة
+simulate محاكاة
+emulate .
+pertain
+onwards.
+peek نظرة خاطفة
+pull elements from db
+pull elements from the list
+jump to ( go to )
+switch to
+accidental/ accidentally  عرضي/غير مقصود.
+so we should write each test as if it’s the only test in the world
+free up resources
+you shoulf be good to go.
+made available by vendors
+this helps move the technology forward in alignement with technology goals.
+overarching شامل
+embraced احتضنت
+suitability for cloud environments
+and JMS which provide support for messaging. ( provide support x for )
+With the prominence of JSON in web development مع بروز.
+In an ever-connected digital world ( an ever-  دائمًا) في عالم رقمي متصل دائمًا
+failures are contained and don't propagate. ( contained تم احتواء )
+during service disruption. ( أثناء انقطاع الخدمة. )
+disruption انقطاع.
+notably على وجه الخصوص..
+notable ملحوظا.
+proactively بشكل استباقي.
+It underscores the importance  of ويؤكد على أهمية.
+intricate معقد.
+Inadequate. غير مناسب.
+once we have this in place
+with respect to the object in context
+i.e none of the subclasses should ever be able to redefine it
+whatever value the field currently has in the current class is good enough ( whatever )
+otherwise that means that the class has involved after the object was serialized.
+bare in mind that deserialization can fail with certain changes   ( bare in mind ضع في اعتبارك )
+they embark on a transformative journey from a traditional monolithic platform to a dynamic microservices-driven business model.
+introspect  الاستبطان - التأمل
+Reflection is allowing exlipse to introspect the class of the object in context ( in context , in question )
+it holds true for. هذا صحيح بالنسبة لـ.
+how we can get hold of . كيف يمكننا الحصول على .
+you will be prompted to restart eclipse
+as Object class is the root class and every other class descents from it.
+ArrayList::map() would have Object as method parameter but from java 5 onwards that’s no more the case  ( no more the case )
+later at some point in the code the date object is casted. ( at some point )
+"The power lays in" "القوة تكمن في"
+lyes in  تكمن في
+lacky
+widely used
+and that wraps up our lesson
+but not the other way around  لكن ليس العكس
+select all accounts that have had deposit of over 500 $ added to them ( over x more )
+it should be good to have some basic knowledge beforehand.
+are willing to cut down on their luxuries. على استعداد لخفض نفقاتهم الكماليات.
+cut down on خفض
+by way of the group vacation packages.
+the accommodation السكن - الإقامة
+accomodate استيعاب
+excursions الرحلات
+Acme runs marketing campaigns on a constant basis.
+The first is wherein they receive commissions from the various partners and providers. الأول هو حيث يتلقون عمولات
+wherein
+truncate اقتطاع
+but if there large # of conditions to test (~100 ) then converting from if to switch can no longer be regarded as micro optimization
+time saving might be very significant قد يكون توفير الوقت مهمًا جدًا
+significantly  بشكل كبير.
+this is how switch statment can be used in preference to if statment ( in preference to  بدلاً من)
+performance penalties.
+The course includes concurrent collections and utilities that support multithreading without compromising performance & efficiency. دون ال مساس بالأداء والكفاءة.
+compromisingالمساومة - التنازل
+lengthy course
+java language added multithreading constructs
+vacationeers المصطافون
+the hassle of planning  عناء التخطيط
+hassle  متاعب
+8 hours & a half behind the GMT
+it will be 1 hour agead of GMT
+we will have to accept some inherent costs associated with it.  سيتعين علينا قبول بعض التكاليف المتأصلة المرتبطة بذلك.
+inherited المتأصلة
+walk through
+a fictitious company.
+you should definitely go for
+you divert from the business .
+succinct موجزة
+on purpose
+which has a set size الذي لديه حجم محدد
+set size حجم محدد
+it behaves as a cache ( behave / act )
+eldest entry أقدم
+chances of changing this key phease is minimal
+eligible for garbage collection
+The second category are the customers who are very budget-conscious and they are looking for discounts.
+مراعات الميزانية
+conscious to واعية ل
+applicable to ينطبق على
+since its from java.util it is relevent to data structures
+ArrayList is one class that imeplements this interface ( one هي إحدى )
+in doing so it declares that it supports fast random access of its elements ( in doing do )
+in other case it was more of “giving permission” ( more of أشبه بـ )
+to create properties that are backed by functions. ( backed by مدعومة ب )
+cross-verify / cross-check التحقق المتبادل / التحقق المتبادل
+LinkedHashSet extends HashSet & preserves insertion order
+& is almost as fast as HashSet ( as x as ) وهو تقريبًا بنفس
+the setup is exactly identical ( identical x the same ) متطابق
+let's quickly glance through them دعونا نلقي نظرة سريعة من خلالهم
+through them من خلالهم
+just like HashMap, lookup, insertion & deletion operations are supported in constant time
+just like in the case of HashMap x just like
+lookup, insertion & deletion operations are supported in constant time.
+compiled list قائمة مجمعة.
+make informed decisions اتخاذ قرارات مدروسة
+respectively
+to make this possible we need to sue flatMap operation
+while a flatMap would produce a simple sequence of items for further processsing
+for further processing لمزيد من المعالجة
+how big a union can get
+upper limit.
+designation تعيين
+narrow down our resultset down to a particular set of interest. تضييق
+yo can invoke all sorts of methods.
+locate x find
+if the type happens to be an interface إذا كان النوع عبارة عن واجهة ( if it happens to be إذا كان )
+in the follow up lessons
+with regards to
+occur x happen.
+inception
+we can caught it at its inception في بدايته
+you are deviating from MVC pattern.
+the need arrises because elements need to work together  تنشأ الحاجة لأن
+arrise
+only sanitized inputs can make to database.
+That is the extent to which something is composed of smaller components.
+Who facilitates this communication? ومن يسهل هذا التواصل؟.
+Provided that you've configured your job application with the required dependencies to work with Java Persistence, Hibernate, and the MariaDB database, the next step is to tell Hibernate how to connect to the database. ( provided that بشرط أن تكون قد )
+depiction
+depict وصف
+return type has to appear right before the method name ( appear x be )
+and it allowed java designers to create classes with methods that could take any type that never existed when they first wrote those classes.
+equivalent يعادل.
+there is a way around this  : هناك طريقة للتغلب على هذا.
+subsume
+we look into different ways in the remaining of this sesion.  ( remainder في الجزء المتبقي )
+save on payroll expenses
+IT lead should have some prior experience with domain modeling. ( prior experience )
+Let us take a look at the Spring MVC architecture at a high level.
+the same process is carried out
+Articulate
+witness شاهد ( a person who sees an event, )
+witnessed شاهد
+crafted
+curated
+intriguing مثير للاهتمام
+intriguate  مثيرة للاهتمام
+beacons.
+who is best known for الذي اشتهر به.
+let's fast forward to دعونا نتقدم بسرعة إلى
+to prevent problems associated with multithreading  (associated with )
+Liveness Problems  مشاكل الحيوية في التزامن.
+Synchronization & locking should be used carefully as these can result in Dead lock & starvation ( these x they )
+articulate your ideasيعبرون عن أفكارك.
+articulate      لفظ, تكلم بوضوح, بين
+curated مُنسق
+beacons. إشارات. منارات.
+the composite object. مركب.
+&lt;attached: 00000079-PHOTO-2024-11-14-01-26-01.jpg&gt;
+فرض impose
+Getting vs being
+Gold is used to back th national currency : back backed backingدعم
+Run over and over
+if you think for sure that
+Invariance
+without invariance that should be possible (use "should")
+covariant التباين
+type safety at runtime.
+typesafety at compiel time ( use "at" )
+prefer list to arrays
+prefer list over arrays
+favorable ملائم
+favor generic types تفضيل الأنواع العامة
+if we happen to إذا حدث أن ن
+static utility methods are particularly good candidate for generics.  ( particularly )
+These quantify things like availability, latency, or error rates.
+quantify تقيس
+toggle
+You notice a spike in sales at the same time. ( spike  ارتفاعًا )
+Prometheus scrapes data from these targets at regular intervals
+subdomain granularity
+The library is extensible so that features that the designers didn't foresee or that didn't belong in the core API can be added. يتوقع
+foresee  التنبؤ
+Common pitfalls to watch out for  المزالق الشائعة التي يجب الانتباه إليها
+Strive for a balance between service granularity and practicality. نسعى جاهدين لتحقيق التوازن بين تفاصيل الخدمة والتطبيق العملي.
+strive : نسعى جاهدين
+You can also identify potential issues and make informed decisions about the structure and functionality of your microservices. ( make informed decisions  اتخاذ قرارات مدروسة )
+you might be tempted to implement them separately in each microservice. قد تميل ( tempt to قد تضطر إلى )
+unleash the power of sonarqube أطلق العنان
+The company motto شعار الشركة
+SonarQube's key strength is finding problems before they become significant issues like  bugs, code smells or other quality deficiencies of software that make it sub optimal and cost money , or real or potential vulnerabilities. ( sub optimal دون المستوى الأمثل / deficiencies أوجه القصور  )
+sensible  منطقي
+spring mvc provides different ways to have more control over the http response( "over" x on )
+The latter is actually a new feature
+eliminate the duplicates التخلص من التكرارات
+the prefered method of iterating over a collection is to obtain a stream and perform aggregate operations on that. ( on that x on it )
+aggregate operations are often used in conjunction with lambda expressions to make programming more expressive and using less lines of code.  ( in conjunction with )
+java 8 includes also special stream for some primitive data types specific ally int, long and double  ( specifically )
+This standard accounts for 98% of all web pages.يشكل هذا المعيار 98% من جميع صفحات الويب.
+accounts for  يمثل
+majorly used
+swagger editor retains your last specs code
+so we can define multiple responses against a specific http call.
+clubbed together متكدسين معًا
+So JMS providers can't interoperate.
+We'll examine these types as we go through the course.
+which we'll touch on at the end of the course.
+A durable queue is one that will survive a service restart.
+To emphasize, a fan-out exchange disregards the routing key.
+there are 2 concepts to consider
+But now let's examine it more closely
+smartly
+We have decorations to enhance performance or to attain more functionality
+still few functionalities only needed while reading staff. ( still = لا تزال هناك )
+You're getting a good clarity on when to use what before the end of this section.
+we come across exceptions everywhere
+the synchronization concept as a whole
+tell the other thread that there is an item of interest in the shared object.
+of interest / of your interest : مثير للاهتمام ف - من اهتمامك
+deminish تقليل
+short term gains مكاسب قصيرة الأجل.
+avoidanceتجنب
+enduraance التحمل
+resiliency المرونة
+vigilent
+complain
+as part of type erasure, compiler will replace every instance of T with List which is the bound ( as part of X during )
+let's do the following ما يلي
+you should refrain from doing that. يجب عليك الامتناع عن القيام بذلك.
+the problem with using raw type, is we would have the same bahavior as we had before generics was introduced.
+which for a given item fetches the price information from multiple partner sources ( price information x price )
+prices depicted using blue circles الأسعار موضحة باستخدام الدوائر الزرقاء.
+generics was introduced almost a decade after java came to existence
+limitations x issues
+performance wise it seems that the new JAVA API is faster ( x-wise ) من حيث الأداء
+analoguous to مشابهة لـ
+apparently فيما يبدو
+perpetual دائم
+stunning مذهل
+equates يساوي يعادل
+the advent of genericsظهور
+the advent of ظهور
+maintain compability الحفاظ على التوافق
+maintain يحافظ على
+a fair number of warnings عدد لا بأس
+fair  عدل
+additionally بالإضافة إلى ذلك
+can be part of  يمكن أن تكون جزءا من
+bulletproof مضاد للرصاص
+futur-proof
+tests should run against the compiled coe ( against )
+developers would have different incentives than operations people ( insensitives : حوافز )
+deliberately عمدًا
+Dismissable يمكن رفضه
+dismiss رفض
+Drizzle lets you build your project the way you want, without interfering with your project or structure. ( interfering )
+go through the docs to solidify your knowledge
+dawn of distributed systemsفجر الأنظمة الموزعة
+dawns فجر
+some other technologies have started to emergeالظهور
+emerge الظهور
+in coordination with بالتنسيق مع
+this doesn’t count for private stuft هذا لا يحتسب بالنسبة للأشياء الخاصة
+allegation ادعاء
+tear down هدم
+preliminary  تمهيدي
+break down the text into short sentenses تقسيم
+break down ( x convert ) تقسيم
+precautions احتياطات
+Nest JS dependency injection system would create the user class first followed by the post and the page classes. ( followed by )
+behind ths intention
+from this video onward.
+because once the services start to increate in number it become difficult to manger
+increate in size, increase in number ..
+to manageإدارتها
+integrity of object state سلامة, نزاهة, استقامة
+namely  أي
+unbound غير مقيد
+unbounded غير مقيد
+compatriote
+the module outline  مخطط
+proprietary خاصة
+did you initiate a support ticket هل قمت ببدء تذكرة دعم ( initiate )
+in its simplest form  في أبسط صوره
+not common ليس شائعا
+both of which will be discussed later.
+both of which وكلاهما
+Unix first was built in assembly ( first : flewel )
+Upper Intermediate German
+Diligence diligent
+Reminder remind
+so to say. إذا جاز التعبير.
+I will expand on the concepts of threads really soon, but let's first look at some examples of concurrency in computers. سأقوم بتوسيع نطاق مفاهيم الخيوط قريبًا، ولكن دعنا أولاً نلقي نظرة على بعض الأمثلة على التزامن في أجهزة الكمبيوتر.
+Use sleep sparingly and ensure it’s the best solution for your case. ( sparingly )
+it was the other way around كان الأمر على العكس من ذلك
+as needed
+on the go
+Brittle
+Incentivized
+Engaged Commander
+it's going to run indefinitely سوف يستمر إلى أجل غير مسمى
+indefinitely إلى أجل غير مسمى
+thread is reading from one collection ( x reads the collection =&gt; use from)
+concurrent collections are special type of collections
+compromise مساومة - تسوية - حل وسط(
+the same goes for hashmap الشيء نفسه ينطبق على الهاشماب
+&lt;attached: 00000104-PHOTO-2024-12-22-00-09-13.jpg&gt;
+In such case
+Captivate
+Insightful
+Usually
+Can be designated selectively
+Envious about
+dining experience
+architectural decision
+It underscores the importance  of ويؤ
+swap out with other libraries تبديل
+i showed you a quick glimpse  التبديل مع مكتبات أخرى تبديل
+لقد عرضت لك لمحة سريعة
+This kind of dependency is held by virtue of a transitive relation ( by virtue of بحكم) يتم عقد هذا النوع من التبعية بموجب علاقة متعدية )
+is held - يقام - يُعقد
+Many new applications have shifted towards single-page applications (SPAs).
+it preappend the prefix and append the suffix
+harmful ضار
+We will learn how to transpose in the database the OOP concept of inheritance.
+transpose تبديل , | -&gt; __ ( gleb )
+So far, so good.
+Let's presume there are a few possible types لنفترض أن هناك بضعة أنواع محتملة
+presume افترض تتوقع
+in the realm of databases : مملكة, حقل, عالم دنيا
+is paramount أساسي, مهم, أعظم أمر بالغ الأهمية أساسي, مهم, أعظم
+If you are accustomed to how tables and primary keys are defined ( accustomed.)  إذا كنت معتادًا على كيفية تعريف الجداول والمفاتيح الأساسية
+accustomed to معتادًا على
+this concludes our demonstration هذا يختتم مظاهرتنا
+advantages and drawbacks
+rewind إرجاع ⏪
+as we need. كما نحتاج.
+clumsy
+That output isn't totally convincing  مقنعا
+The deployment controller notices the discrepancy. تلاحظ وحدة تحكم النشر التناقض.
+discrepancy التباين التناقض
+Initially, understanding this structure can be overwhelming.  في البداية، قد يكون فهم هذا الهيكل أمرًا مربكًا.
+overwhelming غامر
+to get you head around لتحصل على فكر
+record of intent. سجل النوايا.
+k8S API is massive and envolving all the time.
+all the time طوال الوقت.
+Yes, to some extent. نعم إلى حد ما.
+legit methodشرعي
+legitimate شرعي
+it's not compulsory إلزامية
+Performance issues arise because the server launches a heavyweight process for every request.
+heivy weight process
+heavy
+Each request requires a new database connection must be established
+Advantages of Servlets Over CGI ( over =&gt; in comparaison with )
+called as "web container" ( as. )
+it is advisable to
+now that we have authentication in place ( use : in place )
+a string comprised of a sequence of values
+fully compliant.
+dissertation
+incontrovertibly true.صحيح بشكل لا يقبل الجدل.
+contreversial مثير للجدل
+http is the backbone of http
+lies on top of
+Without planning, it’s tempting to add endpoints haphazardly
+tempting مغري
+without planning ahead بدون تخطيط مسبق
+if you planned ahead إذا كنت تخطط للمستقبل
+long-lasting
+this could be any sort of hierarchy ( sort of )
+sort of
+Projects and tickets can be thought of as being contained together.
+ery often i don’t wanna get down into the details في كثير من الأحيان لا أرغب في الخوض في التفاصيل
+get down into  الخوض في
+PUT might update multiple customers but is less common.
+less common أقل شيوعا
+none of that لا شيء من ذلك
+idempotency
+fall through
+enums are special data type that represents group of named constants (named )
+it’s functional but there are some improvement we can do.
+functional عملية وظيفية
+it’s functional but there are some repetition & some potential for errors
+This result or this exception cannot be transmitted through the Runnable task.
+transmit
+to analyse its particularitiesخصوصياتها
+specificitiesخصوصياتها
+provide elementory functionality.أولية.
+transitive متعدية
+this conclude our demonstration.
+this is left the cloud provider.
+preferrably in a clean directory
+obviously we need xx.
+it means this construct has been around since the very beginning of k8s.
+has been around : كان موجودًا
+the very beginning
+i can safely replace FileNotFoundException with IOException for the code to compile
+the latter
+slightly cleaner pattern that works the same
+let's browse through the agenda of the coursE.
+obtaining a instance.
+It predates the introduction of the Iterator يسبق تقديم Iterator
+predates تسبق
+the intake
+The flatMap operator has a subtle working mechanism ( subtle  دقيقة )
+intermittent
+The flatMap operator has a subtle working mechanism ( subtle ل دقيقة )
+The flatMap operator has a subtle working mechanism ( subtle ل دقيقة
+The flatMap operator has a subtle working mechanism ( subtl
+The flatMap operator has a subtle working mechanism ( subt
+The flatMap operator has a subtle working mechanism ( subti
+The flatMap operator has a subtle working mechanism
+i chose x i choosed
+conventional  http methods التقليدية
+This pattern in concept is still very sound.  هذا النمط من حيث المفهوم لا يزال سليمًا جدًا.
+in concept من حيث المفهوم
+in pripnciple من حيث المبدأ
+in : من حيث
+it's sound  - adj سليم -
+There are some convenience classes you can exten ( convenience =&gt; الملائمة )
+It's where our business logic should reside.
+Business logic shouldn't bleed over into our repository tier. ( bleed over يتسرب )
+thrives يزدهر
+Kubernetes is the de facto platform for managing containerized applications at scale. هي منصة فعلية لإدارة التطبيقات الموجودة في حاويات على نطاق واسع.
+defacto فعليا
+at scale : على نطاق واسع.
+genuinelyبصدق حقا.*
+genuin حقيقي  - أصلي
+Back in the day
+relic :  - بقايا أثر
+you name it. سمها ما شئت.
+Hence, the term microservices. ومن هنا جاء مصطلح الخدمات المصغرة.
+henceوبالتالي  - ومن ثم
+The Cloud Native is the benefits that this microservices architecture enables. ( enables تمكن) Cloud Native هي الفوائد التي تتيحها بنية الخدمات الصغيرة هذه.
+dividendes أرباح
+to handle the demandللتعامل مع الطلب
+right then في ذلك الوقت
+back then في ذلك الوقت
+consensus إجماع
+the very beginni
+unusual activity
+in a nutshel  - en bref
+takes place x happen
+there are some subtilities  هناك بعض التفاصيل الدقيقة
+subtle دقيقة
+subtile دقيقة
+If you compare this pattern with the iterative pattern, you will see that they are roughly working in the same way. roughly : تقريبًا.
+the extent المدى
+acquire the skills  اكتساب
+tailored to مصممة ل
+how would you avail this application as per the local standards
+avail
+this couse is interesting to navigate throug
+The application can be promptly localized.
+promptly حالا - على الفور -بسرعة
+are termed locale-sensitive operations. تسمى
+termed تسمى
+the country field or alternatively called "region" ( alternatively )
+arbitrary variant code meant to denote microsoft windows users. ( denote  تشير ) الإشارة إلى
+a locale  مكان  - لغة
+-
+- The `equals` method checks if two `Locale` objects are found equal
+The declarative model involves providing Kubernetes with config files (or manifests) that describe the desired state of the cluster and applications. =&gt; involve = يتضمن. means consist a
+the mighty القوي
+expected response in case of succesful processing
+indefinitely
+irrelevent page
+in a nutshel
+it was the other way aroun
+stops its execution, pauses its execution يوقف تنفيذه، يوقف تنفيذه مؤقتًا
+put the code that you want to have synconized (
+take it for granted / خذها كأمر مسلم به
+The likeliest and simplest answer is that you need it for your job.
+An important next step is to see how these relate to one another.
+this process of requirements gathering is done by means of use cases.
+by means of  من خلال
+It usually takes several iterations of this and the next few stages to get a satisfactory design. satisfactory : مُرضٍ.
+- **For example, does a product have a payment method or is it a kind of payment method?** - Obviously, neither. أنه لا يوجد أي منهما.
+The fields here are relatively straightforward. الحقول هنا واضحة نسبيًا.
+straightforward واضحة
+substantial knowledgeمعرفة كبيرة
+For ShoppingCart, a couple of points are worth noting.
+That's often a bad idea, but it can be useful in some circumstances.
+Module Wrap up. اختتام الوحدة.
+to recap للتلخيص
+to summarize للتلخيص.
+tangling  التشابك
+tangled متشابك
+keep in mind ضع في اعتبارك
+it is very evident from the method name itslef ( evident واضح )
+evidence دليل
+misuse
+determine x check x get
+implement a capability ( capability = functionality )
+it turns out that.
+more explicit ( katchra7 rasha ) كثر وضوحا
+it would be hard to tell what is going wrong
+our functions can have several lines as long as these lines are logically related
+caveats التحذيرات
+They do not count because they are not abstract. لا تحتسب لأنها ليست مجردة. ( do not count makit7asbouch ).
+There is also a more subtle rule to know.
+subtle  أكثر دقة.
+There’s a whole module devoted to it. مخصصة
+devote  مخصصة
+devoted مخصصة
+pledge  يتعهد.
+iran pledge israel إيران تتعهد بإسرائيل
+harsh قاسية
+hit the snoose option الغفوة hit / press
+it should start getting processed and even if the processing of previous byte/data is still going لا تزال مستمرة
+going on مستمرة
+spare timeوقت الفراغ
+writing to one end of the
+We'll first examine the capabilities of repositories.
+the dates given as parameters
+significant دلالة  - هامة
+significalty دلالة
+Adhere to Formatting Standards
+don't overcomplicate things لا تعقد الأمور
+the handovers عمليات التسليم - تسليم المهام
+contributes toward the complexity of the subdomain ( understand -&gt; domain )
+Core subdomain is the differentiator for the business.
+retired
+claims يدعي
+And there may be many different attributes that come together to form an identity.
+Discretionary تقديري - تصنيفي
+abide by الالتزام بها
+the ease of سهولة
+Frequent or extended outages erode trust and cause lasting reputational damage.
+disruption انقطاع تعطيل
+loss of clientele
+Businesses relying heavily on digital platforms face substantial financial impacts, with potential long-term consequences.تواجه الشركات التي تعتمد بشكل كبير على المنصات الرقمية تأثيرات مالية كبيرة، مع عواقب محتملة طويلة المدى.
+substantial جوهري  - كبيرة،
+System failures, especially involving database corruption, pose significant recovery challenges. تشكل أعطال النظام، وخاصة تلك التي تنطوي على تلف قاعدة البيانات، تحديات كبيرة في الاسترداد.
+pose problems تشكل - طرح
+Data recovery may require specialized expertise and may not always result in full restoration.
+expertize != experience
+the goal is to minimize or eliminate the single point of failure to ensure that a failure of one components does not bring down the entire system.
+bring down
+Assess system behavior under various levels of load
+handle failures gracefully
+but they differ in their approaches and implications.
+aims to
+by ensuring
+a spare tire احتياطي
+spare احتياطي - قطع الغيار - إضافي
+thereby
+putting in place measures to minimize down time. وضع تدابير لتقليل وقت التوقف عن العمل.
+put in place وضع
+meausres تدابير
+backup operator  مشغل
+operate  التشغيل
+A system designed to operate with minimal interruptionsنظام مصمم للعمل بأقل قدر من الانقطاعات
+to handle increasing load without overloading individual services.
+without overloading individual services.  تحميل الزائد
+Ensures balanced distribution of requests
+balanced  يضمن التوزيع المتوازن للطلبات
+ensure يضمن
+balanced متوازن
+under utilized
+overwhelmed with requests غارقة في الطلبات
+adequate مناسب
+we can keep system failures to the bare minimum
+the bare minimum
+twisted ملتوية
+If you are keen to learn more about the Spring MVC framework, join me in this course. حريصًا على
+keep to حريصًا على
+The Framework caters to all these kinds of app development. يلبي
+caters to يلبي
+This avoids importing the entire framework and making your application bulky .
+bulky  ضخمًا
+bulk حجم كبير
+The Java Enterprise Edition underwent a namespace change and is now called Jakarta Enterprise Edition. خضع إصدار Java Enterprise Edition لتغيير مساحة الاسم ويسمى الآن Jakarta Enterprise Edition.
+undergo/underwent  خضع / خضع
+spawn a thread
+a cap
+not comfortable with jdbc
+break through
+thrilled
+method anatomy
+try to minimize side effect to the necessary minimum محاولة تقليل الآثار الجانبية إلى الحد الأدنى الضروري
+a proble مشكلة
+Understanding why some code is easy to comprehend while other code is perplexing. محيرة.
+perplexing محيرة.
+poor code is widespread  منتشر على نطاق واسع
+Sloppy
+that means writing code that follows best practices in first place.
+the longer you ignore it the worst it becomes
+comments can be counter productive.
+simple yet so many pitfalls that can make your code either unreadable (yet)
+is done wrong / is done right
+very challenging to modify.
+to reason about
+eager to get started
+bursts انفجارات
+An ExecutorService is a pool of threads that needs to be properly shutdow as any system resource: ( as =&gt; like )
+cleansing التنظيف
+respectful of threads that have been created محترم للخيوط التي تم إنشاؤها
+Interrupts running tasks immediately, halting their threads. -&gt; halting يوقف
+Waits for the specified timeout to giving chance to  tasks to complete: ( give chance لإعطاء فرصة )
+to create threads on demand can lead to inefficiencies.
+concede
+changes take effect
+from the get go من البداية مرة
+pretty neat أنيق جدا - رائع جدًا
+you want to host a  meet up , you found a vanue & secured some talks. - secured = حصلت على  - تأمين ب - daberti 3la
+Knowing these conditions will help you tune your auto-configuration effectively. ( tune ضبط )
+effectively بشكل فعال*
+Configurations always applied, regardless of conditions.
+regardless of بغض النظر عن
+tune your application as needed without being constrained by defaults. التقيد بالإعدادات الافتراضية.
+For the most part, you'd be fine to do that, but if you need better performance or faster start up times, you should definitely consider it.
+for the most part في معظم الأحيان
+Let’s go through the different patterns for creating streams.
+go through نستعرض  - نتعرف
+this is very handy
+the proper one
+since the creation of the array is not completely free cpu-wise ( - wise ) من حيث
+this pattern is much better and much efficien as it is the case when using stream api
+Have the skills to debug issues as they arise.
+tailored to meet custom security requirements.
+spring security makes havy use of filters
+spring uses xx extensively
+occur : takes place
+systems can't afford downtime
+seamless experience
+up to you
+Microservices, in contrast, are smaller in scope with a cohesive focus
+adhering to .
+it can take many forms
+consolidate
+Conversion rather than revamp التجديد
+One example is where an auto-configuration depends solely on a property. أحد الأمثلة هو عندما يعتمد التكوين التلقائي على خاصية فقط.
+humbling  متواضع
+character are denoted by single quoteيتم الإشارة
+denote يتم الإشارة
+entangledمتشابكا
+Inability to make independent changes and deploy them separately.
+inability عدم القدرة على
+preemptively استباقيا
+just for brevity فقط للإيجاز
+determenistic ⇒ it’s the same everytime. حتمية
+100% code coverage is not always atainable لا يمكن تحقيقها
+Shorter development times are essential, and microservices architecture supports this need.
+The architecture is modular, enabling design tailored to match the structure of your organization. ( enabling )
+& even have the 2 to coexistيتعايشان معًا
+impeed performence إعاقة
+it’s just a grouping of objects within the overall api
+these 2 commands work pretty much with all k8S resources تعمل هاتان الأمران بشكل كبير مع جميع موارد k8S
+pretty much = بشكل كبير
+Resiliency communication patterns (e.g., circuit breakers, retries) ensure the architecture remains reliable despite many moving parts.
+Subsequent modules will provide practical guidance on implementing these principles with appropriate technologies and design approaches.
+dynamicity
+rapice pace
+So the bottom line is that both have the retail account as their core domains.
+the bottom line is النتيجة النهائية
+as well as the money put aside for the various initiatives across the enterprise. بالإضافة إلى الأموال المخصصة للمبادرات المختلفة عبر المؤسسة.
+put aside نضع جانبا
+Then the business may decide to build a solution by way of outsourcing
+The generic subdomain has readily available solutions
+john indicated that ( x said )
+john mentionned that ( x said )
+HR is clearly as generic practices
+clearly من الواضح - بوضوح
+it can be costlyمكلفة
+We'll see if these criticisms have any merit.
+we typically used XML, SOAP, and something like SAML or WS-Federation to integrate with other enterprises. ( typically : chhal hadi , 3adatan )
+it will search all application context if there was a hierarchy ( if there was )
+and they would not be considered for the missing bean.
+considered لن يتم اعتباره
+(if you just specify the name attribute of the @ConditionalOnProperty, any value that is not false would make the condition evaluate to true. ( use of evaluate )
+opt-out decision. قرار إلغاء الاشتراك.
+locate the folder X. choose the folder
+intricacies تعقيدات
+Fostering responsibility in both design and ongoing operation of microservices..
+foster : تعزيز
+cascading changes
+free tier eligible
+you will be prompted to select a key value pair
+the fold wokring on java library
+The purpose of the Aircraft class is to serve as a baseline for other classes.
+to serve us
+the app impersonates the user.ينتحل التطبيق شخصية المستخدم.
+go and get method customer that have open orders
+get me
+unless the dataset is small and finite.
+Each incoming request is assigned a thread
+Calling an insurance company and waiting for a representative to be available
+representative ( not representant ) ممثل, مندوب, الوكيل, نائب, ممثل ل, صفة
+helpdeskمكتب الدعم
+in a row على التوالي
+skip ahead تخطي إلى الأمام
+on a first-come, first-served basis.
+approximately / around 120 langiage
+around the globe
+Currency formatting is as important as supporting the local language in an application.
+as necessary as
+A city is inherently complex concept: المدينة هي مفهوم معقد بطبيعته:
+inherently بطبيعتها
+and the IT teams must be mindful of the context as they interpret the information.
+mindful of  مع الأخذ في الاعتبار - مع مراعاة -
+lead to misinterpretations
+Outcomes x results
+outcome of taking this course  (bhal dakchi li 7asselti men chi haja  )
+eady to deepen your knowledge
+at the time of recording version 7 is the current version
+must match the names as they appear in the json file. ( use of appear in )
+print the data at onceفي وقت واحد
+service takes care of getting that traffic to the individual pod ( get ... to )
+arbitrary
+the count drops يقل
+in order to solve this issue a new pattern emerged → microserviceظهر
+the tiles that most suit your personality. (most suit / most fit )
+fit into تتناسب مع
+Increased complexity and dependencies between services ( use of increased ) زيادة التعقيد والتبعيات بين الخدمات
+dependency التبعية
+in EDA everything revolves around events and not the data.
+revolve around يدور حول
+rather than X and not :)
+have no special intent or specific semantics. ليس لديهم نية خاصة أو دلالات محددة.
+a broker facilitate the transmittion of data يسهل نقل البيانات
+facilitate يسهل
+cutting down resources when not needed.خفض الموارد عندما لا تكون هناك حاجة إليها.
+Steep Learning Curve منحنى التعلم الحاد
+inherently = by nature
+systems grow more complex with intricate event flows, especially in enterprise solutions.
+Spliterator can be seen as the ITerator of the collection.
+can be seen as
+can be tought of as
+when it comes to xxx, A proven approach to model a business in an event-driven architecture is by using a workshop called event storming ( use -&gt; a proven approach ... )
+it can be tricky صعبًا
+Guides the workshop and discussions in the right direction
+The event-driven approach shifts focus from data to events ( shifts )
+Events are organized from left to right, representing the chronological order of interactions in the business.
+a policy may reside between events, but if the process is straight forward it is not mandatory to put it in. ( "it is not mandatory", "to put it in" )
+now that our business is nicely modeled using event storming. we can step into the solution space by using DDD. ( now that ... we can .. )
+step into الدخول إلى
+that holds all the pod ips that matches the selector & gets updated on the fly when pods come and go
+All your data would be gone ( gone = deleted )
+When a request is made to a Spring application
+Made to 👀
+Where Reactive Programming Excels حيث تتفوق البرمجة التفاعلية
+excels : تتفوق
+reactive programming may be a good fit
+Flux
+evidently
+this approach has some drawbacks
+this might not be a concern
+but high-thread-count applications suffer performance degradation.
+introduces additional overhead.
+aims to address these issues
+making thread creation and deletion extremely lightweight.
+at some point we are going to need a database to store data. ( at some point )
+i'm going to opt for lombok سأختار lombok
+opt for اختر
+assuming the piece of code you have tests in place for it.
+you have high level of confidence
+a small finite set
+هو الذي يكلف He is the one who charges
+get clarity الحصول على الوضوح
+for long term availability
+kafka offers first class support for streamيقدم كافكا دعمًا من الدرجة الأولى
+streaming جاري - البث
+Streaming has gained massive popularity, enabling companies to process data in real time and enhance customer experience. ( enabling = allowing )
+processed individually X one by one
+sequentially
+instantly = as fast as possible
+respond to critical events
+capabilities X functionalities
+release the break point
+As you surely
+driven by business requirements
+to overcome this challenge we group them into ROLE
+overcome للتغلب عليها
+examine X check x analyse
+we already mentionned it long back منذ فترة طويلة
+this used to be the only كان هذا هو
+inject custom filter in between the security filter chain ( in between  بين )
+if you have some business logic to be executed during the destroy of the filter the you can define such logic by overriding destroy method. ( use such )
+it has good amount of method ( good amount )
+used whenever you want your filter not to be excuted under certain scenarios ( under certain scenarios )
+random values with no inherit meaning
+using opaque token there is always going to be a dependency on backend server
+in enterprise applications always the security related logic is maintained in “Auth Server” ( maintained x exists ... )
+it can self validate the token
+introspection
+same token can be used across multiple applications ( across x for )
+tampered the token
+under which scenarios digital signature is optional
+from the open web
+keep it carefully
+secret should be maintainer in a vault  ( maintained x stored )
+Final Verdict الحكم النهائي
+nowhere we are going to store the token neither ...
+software artifacts can evolve independently  تتطور  بشكل مستقل
+is identified by way of account number. ( by way of )
+balance may go up or down as a result of the execution of this operation ( up and down / as a result of )
+the code put together to implement all of these is referred to as the “business logic” ( put together الذي تم تجميعه)
+the code put together X the code that is put together
+deduct the amount and update the balance. ( خصم المبلغ وتحديث الرصيد. )
+that’s purely concidentalهذا عرضي بحت
+purely  بحت
+as a resulst the customer entity will be cleaner
+When opening a bank account, a customer must provide government-issued identity proof.
+bare in mind ضع في اعتبارك
+it’s created on the process memory and destroyed after it has served its purpose
+comparaison check is carried out by the comparaison of  ( is carried out يتم )
+it has very short lifespan عمره قصير جدًا.
+These reports have the consolidated information about all of the accounts held in the retail accounts. ( تحتوي هذه التقارير على معلومات مجمعة حول جميع الحسابات الموجودة في حسابات التجزئة. )
+held in - الموجودة في ( x maintained )
+held in - عقدت في  - انعقدت في
+consolidated information مجمعة
+magician with the ball, has bright future ahead of him.
+outperform يتفوق
+serve its purporse
+for demo purpose
+workflow
+highlevel overview
+as per yoyr use case
+we have  very valid business reason that xxx
+this is not a very acceptable design
+the 201st request will not be served. ( 200 and first request )
+on thread for request processing and the others for handling the heavy duty calls our app
+A request (request one) arrives.
+the block code is yet to execute رمز الكتلة لم يتم تنفيذه بعد
+Once the blocking call completes, it commits the response.  فإنه ينفذ الاستجابة.
+commit ينفذ - الالتزام
+to carry the results back to the client لنقل النتائج مرة أخرى إلى العميل ( carry - back  )
+carry - يحمل
+track spawned threads
+we log what thread is trying to do what. ( is trying to do x is doing what )
+✅ our Spring mvc task executor is set up.
+exhibit the flow of processing عرض تدفق المعالجة
+exhibited معروضة
+which is why ( X this is why )
+so that the spring mvc asynchronous context takes over ( takes over يتولى )
+i will take over her job سوف أتولى وظيفتها
+The then DispatcherServlet and its associated  filters ( associated )
+for the time being في الوقت الحاضر
+this mehtod 👆emulate blocking call هذه الطريقة 👆تحاكي حظر المكالمات
+simulate تحاكي
+stimulate يحفز
+in previous exercice we analyzed ( exercice )
+revisit tht lecture/lesson ( revisit )
+the directory hierarchy must conform to the package. ( conform   يتوافق )
+this might not be practical
+This approach affects all Java applications unless overridden by a specific command. ( unless ما لم )
+use it with caution  استخدمه بحذر
+separated by a platform-specific delimiter
+With Whom do Tech Leads Work?
+delimited محدد
+delimiter  الفاصل
+Java searches for classes in the order they appear in the classpath. ( in the order they appear X use of appear )
+query is not fired
+updated with accordane to last version بالتوافق مع
+this is sub optimal هذا ليس مثاليًا
+rewind إرجاع
+organizational information ( company name, company city ... )
+and which ones ? is controlled by OS and Browser vendors ( browser vendores X browser X browser companies )
+server provides the CSR to one of the public Certificate Authorities, and in return the CA delivers back a signed certificate (  delivers back )
+in return في المقابل
+revoked the certificate ألغت الشهادة
+vetting التحقق
+it needs to be validated to ensure authenticity and trustworthiness.
+which means this phase is computationally easier to encrypt & decrypt data at high speeds ( at high speeds )
+from now onward
+secret is compromised  تم اختراق السر
+rewatch the lesson ( revisit the lesson )
+Properties class can have have its instance persisted and restored across application executions ( key thing is that
+- across executions)
+discriminator   المميز
+discriminator column
+the reason to have this focus is entities and VO are meaningful within a context.
+once we authenticate we are given the consent screen (we are given يتم منحنا )
+we are allowed to deny this request
+we can choose which permission to grant ( grant   منح)
+but its flexibility has led to misinterpretations and misuse.
+oauth is a good fit
+they are meant for
+given this data model
+Deletes users one by one, issuing multiple DELETE statements. ( issuing )
+because by default spring does not do that for you ( use 'for you" )
+not in one go
+the query that you get our of your derived query ( get out )
+query is bound to this derived method ( bound, bind )
+it loads all of them into the persistence context issuing this select statement ( into x in )
+here when the user with id 1 ( with id 1 )
+deleting data in bulk does does’t not allow the data into the persistence context, it deletes the data straight from the database ( straight )
+prepopulating data ملء البيانات مسبقًا
+Nomineesالمرشحون
+to operate on one of the child objects, you may use this mechanism where in you may call a get() function on the aggregate (eg. getNominee() ) to get the nominee object ( you may use X you can use )
+these entities are stored across multiple tables ( across x in )
+in either of the cases the interceptor has the power of terminating the execution chaine  ( either of the cases X in both cases )
+mark this as a configuration bean so spring boot can pick this up at the start up and configure it for you
+helps you configure those exclusively for this pattern. ( exclusively  حصريًا X only X just )
+extensive experience
+a fleet of microservices
+often = frequently
+you typically end up with fewer batched releasesينتهي بك الأمر
+nowadays the value of shipping software faster is proven by the data that the goal of most business is to get values into customer’s hands faster
+Modern software systems face unpredictable traffic spikes.
+unpredictable غير متوقع
+spikes ارتفاعات
+face  تواجه
+End-of-month payroll systems experience temporary surges. ( surges ارتفاعات )
+microservices allow fine-grained scaling. التوسع الدقيق.
+Alignment with DevOps Practices التوافق مع ممارسات
+allign التوافق
+arranged مرتبة
+Microservices tied to a single domain. (tied to  مرتبطة )
+solving one area ( use area )  مجال
+Instead of preventing failures, microservices absorb failures gracefully. ( absorb تمتص الخدمات الصغيرة حالات الفشل بأمان )
+absorb
+gracefully
+services move around a lot الخدمات تتحرك كثيرًا
+a lot of moving parts الكثير من الأجزاء المتحركة
+i don’t have a fixed set of IP addresses to host my services.   ( use set )
+so i ca tolerate when one server is offline ( tolerate أن أتسامح )
+frankly بصراحة
+system is misbehaving
+i can over-engineering & make things over complicated
+Let's have a sneak peek into SpEL دعونا نلقي نظرة خاطفة على SpEL
+token issued by a particular app won’t make sense to other apps/service ( makes sense to )
+fraudulent activity
+don't be under the assumption that Oauth2 is a library
+on our behalf
+the hotel premises مباني الفندق
+there clear guide lines about which grant type to use under which scenario
+ex: 2 IOT devices trying to communicate to each other ( trying )
+certain grant type flows which are not following the current security best practices due to the security advancement happening in the industry ( advancement )
+that pass could have been better
+who is showing interest of interacting with ...
+there is a good change that
+there is a good possibility that
+post succesfull authentication, the use can ...
+how resource server is going to validate the token without reaching out to the token issuing component ? ( reach out X contact x ask  ... )
+along with
+this grant type flow is designed this way for better security (  designed this way)
+Oauth2 addresses many of the short comings of يعالج Oauth2 العديد من أوجه القصور في
+This raises questions about the وهذا يثير تساؤلات حول
+raise  يثير
+same as nonce value that we have initially sent
+In a nutshell باختصار
+caveat  تحذير
+Subtlety of the Right Answer for an Empty Stream دقة الإجابة الصحيحة للتيار الفارغ
+creating a task in a thread does not necessarily means that this task is going to run in the same thread.
+Blocking means the thread is halted -- halt توقف
+What we'd ideally like is the ability to: ( ideally ) ما نرغب فيه بشكل مثالي
+Asynchronous means that a task is executed sometime in the future, but not necessarily in a different thread. ( not necessarily  = pas forcement )
+as long as their signatures are different
+and then providing a more specializing logic in the constructor ( providing )
+generic vs specialized
+the most specialized constructor is called at the end ( at the end )
+open source and not propretaty مفتوح المصدر وليس مملوكًا
+a number of these components expose their interaction endpoints over Http. ( a number of / over )
+sustainable choice for application architecture.اختيار مستدام لهندسة التطبيق.
+failover تجاوز الفشل
+in spare time
+a slight pause
+crisp
+Toll Station
+prerequisites
+get the most our of the course
+challenges emerge with microservices   تظهر التحديات مع الخدمات الصغيرة
+static methods are beneficial
+by contrast  على النقيض من ذلك
+integer, double, long, boolean, and the like, ( وما شابه ذلك )
+it will scan all classses in the project looking for annotations (looking )
+if we look insideإذا نظرنا إلى الداخل
+Makes it easier to add new features without major refactoring.
+apps that delivers cutting edge capabilities التطبيقات التي توفر إمكانيات متطورة
+cutting edge المتطور والحديث
+Security concerns
+poor security
+concept of API isn’t new they have been been around since the early days of computing (
+they have been been around فقد كان موجودًا
+since the early days of منذ الأيام الأولى
+Proper organization of resources affects the API design  and ultimately how client will call this API ( ultimately  في النهاية)
+dissertation أطروحة
+without you having to implement it
+you may be tempted to write this kind of code ( tempted to قد تميل إلى )
+tempt to يغري ل
+and that would not be the case with the core java API classes
+so there is not point loading the class here
+we will do in a couple of lessons from now
+and reflection si not constrained to just this class called Class.
+if org has huge man power
+federation الاتحاد
+*allowed to pass through
+unaltered دون تغيير
+i OWe you a big time أنا مدين لك بوقت كبير
+mindset shifts
+calculating interests
+a payment service won’t have methods for estimating suitable promotion for certain user, ( estimating X calculating )
+dependency can still happen, but we need to minimize this.
+each service is seens as an individual componnet.
+you will need people with differentt skill set to maintain them and possibliy different infrastructures (and possibly  X maybe. وربما )
+due to its distributed nature → developing microservices is hard ( due to it XXX nature )
+If misdesigned, microservices can be more of a burden than a benefit.
+Microservice patterns are reusable solutions to common challenges. ( to )
+If the application is small and unlikely to grow, monolith may be a better choice. ( unlikely )
+eventually making it difficult مما يجعل الأمر صعبًا في النهاية
+a situation where no developer or group of developers understand the entirety of the application. ( the entirety )
+tight coupling → reduce agility
+change in one place might have an undesirable effect on other modules, even if they are indirectly connected. & some source code might interfere with each other.
+when one module needs to scale, we need to scale the entire app → example during christmass one transactions grows twice, we must create instance of every modules includes logistics and transactions. this means we need bigger server capacity than we actually need.
+chassis الهيكل
+it never leaves that region unless configured explicitly ( unless / explicitly )
+you will hit the hard limit
+object can range in size from 0 to 5tb
+no body has access to this bucket except apart from the account that created it ( a part from )
+uniquely reference one resource within aws.
+Latch = sa9ta
+Divide the computation across multiple threads, allowing each thread to process a subset of data. -- subset
+to which we can pass as complex sorting expressions as we need to.
+if you wish x if you want
+whereas with ...
+this seems very odd to me.
+Even the server remains functional
+it will not be able to handle an ever increasing load لن يكون قادرًا على التعامل مع الحمل المتزايد باستمرار
+( ever - &gt; باستمرار )
+it can cause the entire system to slow down or stop all together
+reached the treshold وصلت إلى العتبة
+reached the treshold at which the server might not keep up for much longer ( keep up واصل - الاستمرار )
+to name a few
+such as NGINX or HA Proxy to name a few
+it guarantees uniform load distribution (بشكل موحد )
+the least connection strategy استراتيجية الاتصال الأقل
+the server will assume that
+taking a
+taking advantage of periodic health check that load balancer sends to the server. ( periodic دوري)
+Accounts for real-time traffic conditions. (  accounts يأخذ في الاعتبار )
+Load balancer makes smart decisions
+Load balancer makes informative decisions.
+low overhead ( low )
+keep the load balancing overhead to  to the absolute minimul
+approached me
+java is created prior to 1995
+done with minimal change or rework
+The Java Community Process (JCP) oversees Java specifications. ( oversees تشرف على )
+takes over يتولى
+Cost Avoidance
+if your service is not forwarding traffic to the pods as it suppose to, you can check its endpoint and see that it has registered all pod replicas (as it suppose to كما يفترض )
+Among other  entre autre
+If we add in memory cpu usage increase proportionally
+I’m short on money
+Demolish هدم
+I genuinely
+Grooming
+Stealth
+Comprehend
+for most systems.
+alternate designs may be considered يمكن النظر في التصميمات البديلة
+multiple actors are looking at the same data and carrying out certain action on data parallely
+performance wil degrade
+to incorporate information about لدمج المعلومات حول
+annotation name must be preceeded with @ symbol
+unusual غير عادي
+examine type information at runtime
+we are all set نحن جاهزون
+How Target Enforcement Works
+allowable targets
+Key Takeaways from This Module
+Expanding application functionality by leveraging annotations.
+the name along the enrollment id
+when # starts getting bigger
+you should pro-avtively address the failure points in you architecture. ( pro-actively بشكل استباقي )
+you should proactively identify the failure points in your architecture involving distributed components or microservices. ( involving ) .
+this needs to be avoided at all cost يجب تجنب هذا بأي ثمن
+order service emits an event
+business will not be able to survive for so long
+If any service fails, previous services should compensate for the failure. ( compensate تعويض )
+further more we can علاوة على ذلك،
+saves you lot of headaches.
+the embodies small يجسد هذا الأمر الصغير
+instill
+this pattern brings some advantages to the table
+at first glance it looks bad
+# in front of the variable name
+executed serially
+A phantom read occurs when, in the course of a transaction
+Read Uncommitted falls back to  Read Committed.
+it returns the results as the one returned from xxx( as the one )
+sensible security defaults are configured transparently - transparently
+i did that the other day فعلت ذلك في ذلك اليوم - dak nhar
+how can we appealكيف يمكننا الاستئناف
+Partitions data based on discrete values rather than ranges. ( discrete قيم منفصلة )
+client agnistic
+The customer was charged
+to demonstrate the inner workings of the saga pattern.
+for reverting the db changes
+each service reacts autonomously/ بشكل مستقل/
+network ´access and the like الوصول إلى الشبكة وما شابه ذلك
+hassel
+weakness : الضعف
+user subscribe to topics of interest المواضيع التي تهمه
+proclaim your intent
+sampling أخذ العينات
+overload the system
+a common misconception
+scaling can help to a point where إلى نقطة حيث
+demarcate ترسيم
+demarcation ترسيم الحدود
+in early 2000sفي أوائل
+it’s commonly seen that there are more query requirements than the write requirements.
+gebrish عبث
+in java every reference can pottentially hold a null value.
+pottentially من المحتمل
+hold ( X have )
+Good practices say that when using collections ( say تقول الممارسات الجيدة )
+Unpacking Values from an Optional  - تفريغ extract
+and these methods will be intuitive. - easy to understand
+flatMap will flatten these 2 levels Optional into a single optional ({any verb} + into )
+based on the way of broker is sending the data بناءً على الطريقة التي يرسل بها الوسيط البيانات
+specifically / namely
+conduct
+Handling errors effectively ( use effectively )
+Discover how to chain tasks, launching new tasks upon the completion of others. اكتشف كيفية تسلسل المهام، وإطلاق مهام جديدة عند الانتهاء من مهام أخرى.
+upon : عند
+upon its completion عند الانتهاء منه
+let's browse throught the agenda of this module. نتصفح
+- either all of them success, or all of them revert back to its intitial state - إما أن ينجحوا جميعًا، أو أن يعودوا جميعًا إلى حالتهم الأولى
+either إما
+we don't want to assign a seat either أيضًا
+if anything go wrong with any of them, both of them should rollback, as if neither of them ever happened
+configuration files live beyond the application execution ( use of beyond )
+introduced in java 1, back in the days of 1995.
+Most Java frameworks rely heavily on the Reflection API. ( rely heavily )
+this goes back to the sticky assigner يعود إلى
+goes back يعود إلى
+plase stick around
+to understand the intuition behind it
+by not using method references, you might miss out on significant benefits.
+In some cases, they may obscure implementation details
+to combine 2 conditions, the first one being xxx
+more often than notفي أغلب الأحيان
+which happens to be Student Entity.
+use this account going forward
+we can define schema of our xml documents in order to enfore specific structure for out data ( enforce )
+for further processing
+recall that
+which is negligible
+it will present you with different ui
+Looking Ahead التطلع إلى المستقبل
+chasing down مطاردة
+same goes for primitive types.
+innermost
+The innermost layer is always the Object class (the superclass of all classes in Java).
+outermost / leftmost ( use most )
+everything defined on in the super class is accessible to the sub class as long as they are not private ( as long as )
+when u have components in your object model, the Address here being a component of a Person (  use of : being )
+a model of an apple might a list of chemical compounds that makes up the apple
+roll back
+revert back
+Quoting rules (e.g., quoting filenames with spaces in Windows) are honored. (  honored يتم احترام )
+we do that by taking advantage of java resource system. ( take advantage of )
+Reading and modifying objects at runtime without prior knowledge of their structure or class. ( prior )
+browse throught the agenda of this course
+explore its broader potential in real-world scenarios.
+bloats the code
+Pinpoints sources of latency and faults. تحديد مصادر التأخير والأخطاء.
+New call patterns can emerge beyond initial design.
+breakthroughاختراق
+quo
+let's issue some http request
+Correlation
+Centralizing logs for correlation is a challenge.
+Anatomy of a Trace :  تشريح
+it should be uniform through the entire request
+Ensures trace headers are correctly propagated.
+it’s clear that it check if the employee is entitled for a bonusمن الواضح أنه يتحقق مما إذا كان الموظف مؤهلاً للحصول على مكافأة
+entitled
+given that بالنظر إلى ذلك
+clarity then brevity
+All there is, is what developers
+the clean code concepts are based on cognition  الإدراك
+a hostile compiler مُجمِّع معادٍ
+although this verification is already done during compilation ( during )
+& it could allow its execution engine to perform at optimum level → as it doesn’t have to perform any further security checks ( optimum - further )
+so all the static  fields across the class hierarchy will be initialized before the instance fields are initialized ( are initialized )
+ie, it not need dtrictly happen after preparation step
+so they are loaded upfron/eagerly loaded
+and so there is no point loading the references appearing on those statements
+as you can see, these are verification related, so. the resolution does some form of verfication - some form of
+that about linking, once a class is found to be safe (found)
+that is all to JVM topic.هذا كل شيء يتعلق ب - that is all to
+if an excess electric current
+kind of worsening the problem
+acts as a safeguard يعمل كحماية
+thus avoiding prolonged delays for clients.
+the state goes to half open state
+فقط للتأكيد
+just to reiterate  - فقط للتكرار  -فقط للتأكيد
+there is no point in sending multiple requests ليس هناك فائدة من
+maintainance window is
+avoid trap الفخ
+systems grow in complexity and scale
+beautiful uncertainty
+We're nearing the end of the course.
+the kernel looks up the entry
+there are 2 different approaches to this
+This file descriptor happens to point to the same physical socket. ( happens to )
+there is a associated cost to all these
+emit. / emission
+nonetheless
+a comprehensive walkthrough إرشادات شاملة
+clear demarcation ترسيم واضح
+put your system under unecessary stress
+you have limited # threads, even when requests keep coming in at a faster pace, the threads are going to make sure ( coming in / at a faster pace )
+certain media types are better at delivering high IOPS vs other media types ( better at )
+stitching خياطة
+leading to better resource utilization.
+intake
+next we need to state wether Coffee is sealed or non sealed class
+burst ينفجر
+you don't wanna get into that أنت لا تريد أن تدخل في هذا
+can sometimes be daunting. شاقًا
+finite amount of data كمية محدودة من البيانات
+expressed in mega byte per second يتم التعبير عنها بالميجا بايت في الثانية
+ingest - تناول - استيعاب
+idioms التعابير
+it's only a part of way إنه مجرد جزء من الطريق
+this might factor
+if the AZ experiences a major issues → impacts all of these services ( experiences واجهت )
+but generally instances of same type & generation occupy the same host
+steady-state  حالة مستقرة
+steady ثابت
+this instance type prioritize memory over cpu
+Baseline الأساس
+Flyway is a database version control tool that applies incremental migrations to your database schema.
+incremental  : التدريجي
+checksum mismatch عدم تطابق المجموع الاختباري
+Understand how CASing differs from:اختلاف
+Synchronization ensures thread safety but comes with performance costs due to blocking and contention.
+this is where casing precisely can be used.
+precisly على وجه التحديد. - تحديدا.
+Expected Value: The value we assume currently resides at the memory location. نفترض
+assume X think افترض X اعتقد
+A false return indicates another thread has modified the value, signifying real concurrency. ( use of "has" )
+uninterruptible. غير قابلة للانقطاع.
+exhaustive list قائمة شاملة
+interfere. يتدخل.
+a never-ending stream
+interleave تداخل
+at the end of the day.
+shurn تخلص
+detour التفاف
+at a later date في وقت لاحق
+encapsulated in service layer 
+the details of this network protocol and messaging format will be encapsulated within the infrastructure services.
+as depicted in this illustration
+this is not straightforward and introduces several challenges:
+A Tale of Two Architectures  حكاية
+A Tale حكاية
+essentialism الجوهرية
+this course lays the foundations of تضع هذه الدورة أسس
+creating an architecture that allows you to envolve the architecture as the needs of the system change over time.
+it involves component of some type
+that is how these layers and components are wired together. wire توصيل
+Brittle هش
+over time, over the life of the project
+inhabitants سكان
+many of which are outside the control of the architect
+the more overlooked أكثر إهمالاً
+overlookedتم تجاهلها
+they are not constantly consuming resources.
+EDA only consume resource only as and when required 
+the implicit deny takes effect يصبح الرفض الضمني ساري المفعول
+it worth noting ومن الجدير بالذكر
+in reaction to ردا على
+abide by الالتزام ب
+we will appreciate how os work
+i take pride انا فخور
+A process would execute indefinitely ( indefinitely -&gt; إلى أجل غير مسمى )
+duration x time
+trying to convey
+the feeling of accomplishment الشعور بالإنجاز
+take help of
+greater than ( more than )
+we return an Authentication object indicating wether the authentication is succesful or not.
+pecular  requirements متطلبات خاصة
+they may setup the authentication is such way that xxxxxبهذه الطريقة بحيث
+this will provide some convenienve to the user سيوفر هذا بعض الراحة للمستخدم
+the virtue of distribution system فضيلة
+Wisdom حكمة
+varies depending on ( varies )
+prove / proving X proofing إثبات / إثبات X إثبات
+proof that إثبات ذلك
+keep up  ابق كما أنت /  مواكبة /  استمر
+hasNext() & next() are paired with basic loops to step through the collection elements one at a time in a forward direction
+the immutable nature of stream
+collideتصطدم
+feel free to ask لا تتردد في السؤال
+with isAuthenticated set to true.
+value is used / name has no significance
+sensible default افتراضي معقول : observe default w me39oul
+when requirements dictates عندما تملي المتطلبات
+let's use it to our advantage دعونا نستخدمها لصالحنا
+deplete مستنفدة مستنزفة
+it’s resubscribing to the publisher again and again indefinitely
+short lived functionقصيرة العمر
+contains any key value pairs of our choice
+it really comes down to personal preferences يتعلق الأمر حقًا بالتفضيلات الشخصية
+comes down to يتعلق الأمر
+they tend to be attributuable to developer error
+alleviate تخفيف
+while retaining the old version.
+fictituous company شركة وهمية
+with the least amount of overhead
+we are trying to convey نحن نحاول أن ننقل
+substantially إلى حد كبير
+go all the way to the bottom and click upload
+the entire cluster becomes dysfunctional.
+agree on xxx ahead of time/before hand
+Implications تداعيات
+losing the money is out of the question أمر غير وارد
+partitioning التقسيم
+Data is already disjointed البيانات مفككة بالفعل
+offload تفريغ
+there is a correlation between user wait time and satisfaction
+can allow you to build natural retries without negatively impact performance on the processes involved ( involved)
+we need to be mindful of نحن بحاجة إلى أن نضع في اعتبارنا
+God forbid
+Fans Banned from logging to the stadium
+Situation could turn for worse
+Family over everything
+That’s terrible
+To be Selective
+Cross the finish line
+Cross the borders
+Cross the lines
+Envy حسد
+In effect
+Intersect

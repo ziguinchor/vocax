@@ -1,0 +1,254 @@
+<?php
+
+$frontendOrigin = 'https://v0-arabic-word-tracker-app.vercel.com';
+
+header("Access-Control-Allow-Origin: " . $frontendOrigin);
+header("Access-Control-Allow-Credentials: true");
+header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
+header("Access-Control-Allow-Headers: Content-Type, Authorization");
+
+
+// Handle OPTIONS preflight
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+	header("Access-Control-Allow-Origin: " . $frontendOrigin);
+header("Access-Control-Allow-Credentials: true");
+header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
+header("Access-Control-Allow-Headers: Content-Type, Authorization");
+
+
+    http_response_code(204);
+    exit;
+}
+
+// Basic Auth check
+$user = 'oxgen';
+$pass = 'oxgen';
+
+if (
+    !isset($_SERVER['PHP_AUTH_USER'], $_SERVER['PHP_AUTH_PW'])
+    || $_SERVER['PHP_AUTH_USER'] !== $user
+    || $_SERVER['PHP_AUTH_PW'] !== $pass
+) {
+
+    header('WWW-Authenticate: Basic realm="Restricted Area"');
+    http_response_code(401);
+    echo json_encode(['success' => false, 'message' => 'Authentication required']);
+    exit;
+}
+
+
+// words.php
+
+header('Content-Type: application/json');
+
+$dataFilePath = __DIR__ . '/data/words.json';
+
+// Read words from file
+function getWords()
+{
+    global $dataFilePath;
+    if (!file_exists($dataFilePath)) {
+        return [];
+    }
+    $data = file_get_contents($dataFilePath);
+    return json_decode($data, true) ?: [];
+}
+
+// Save words to file
+function saveWords(array $words)
+{
+    global $dataFilePath;
+    usort($words, function ($a, $b) {
+        return intval($a['id']) <=> intval($b['id']);
+    });
+    $json = json_encode($words, JSON_PRETTY_PRINT);
+    if (file_put_contents($dataFilePath, $json) === false) {
+        return ['success' => false, 'message' => 'Error saving words'];
+    }
+    return ['success' => true, 'message' => 'Words saved successfully'];
+}
+
+// Get raw input and decode JSON
+$inputRaw = file_get_contents('php://input');
+$input = json_decode($inputRaw, true);
+
+if (!$input) {
+    http_response_code(400);
+    echo json_encode(['success' => false, 'message' => 'Invalid JSON']);
+    exit;
+}
+
+// Handle 3-element array as updateWordStatus
+if (is_array($input) && count($input) === 3 && isset($input[0], $input[1], $input[2])) {
+    $wordId = $input[0];
+    $statusIndex = $input[1];
+    $checked = $input[2];
+
+    $words = getWords();
+    $found = false;
+    foreach ($words as &$word) {
+        if ($word['id'] == $wordId) {
+            if (!isset($word['statuses'][$statusIndex])) {
+                http_response_code(400);
+                echo json_encode(['success' => false, 'message' => 'Invalid status index']);
+                exit;
+            }
+            $word['statuses'][$statusIndex] = (bool) $checked;
+            $found = true;
+            break;
+        }
+    }
+    if (!$found) {
+        echo json_encode(['success' => false, 'message' => "Word with ID $wordId not found"]);
+        exit;
+    }
+    echo json_encode(saveWords($words));
+    exit;
+}
+
+// Otherwise expect object with 'action'
+if (!isset($input['action'])) {
+    http_response_code(400);
+    echo json_encode(['success' => false, 'message' => 'Missing action']);
+    exit;
+}
+
+$action = $input['action'];
+
+switch ($action) {
+    case 'getWords':
+        echo json_encode(getWords());
+        break;
+
+    case 'updateWordStatus':
+        $wordId = $input['wordId'] ?? null;
+        $statusIndex = $input['statusIndex'] ?? null;
+        $checked = $input['checked'] ?? null;
+        if ($wordId === null || $statusIndex === null || $checked === null) {
+            http_response_code(400);
+            echo json_encode(['success' => false, 'message' => 'Missing parameters']);
+            exit;
+        }
+        $words = getWords();
+        $found = false;
+        foreach ($words as &$word) {
+            if ($word['id'] == $wordId) {
+                if (!isset($word['statuses'][$statusIndex])) {
+                    http_response_code(400);
+                    echo json_encode(['success' => false, 'message' => 'Invalid status index']);
+                    exit;
+                }
+                $word['statuses'][$statusIndex] = (bool) $checked;
+                $found = true;
+                break;
+            }
+        }
+        if (!$found) {
+            echo json_encode(['success' => false, 'message' => "Word with ID $wordId not found"]);
+            exit;
+        }
+        echo json_encode(saveWords($words));
+        break;
+
+    case 'updateWordText':
+        $wordId = $input['wordId'] ?? null;
+        $newText = $input['newText'] ?? null;
+        if ($wordId === null || $newText === null) {
+            http_response_code(400);
+            echo json_encode(['success' => false, 'message' => 'Missing parameters']);
+            exit;
+        }
+        $words = getWords();
+        $found = false;
+        foreach ($words as &$word) {
+            if ($word['id'] == $wordId) {
+                $word['text'] = $newText;
+                $found = true;
+                break;
+            }
+        }
+        if (!$found) {
+            echo json_encode(['success' => false, 'message' => "Word with ID $wordId not found"]);
+            exit;
+        }
+        echo json_encode(saveWords($words));
+        break;
+
+    case 'appendWordText':
+        $wordId = $input['wordId'] ?? null;
+        $textToAppend = $input['textToAppend'] ?? null;
+        if ($wordId === null || $textToAppend === null) {
+            http_response_code(400);
+            echo json_encode(['success' => false, 'message' => 'Missing parameters']);
+            exit;
+        }
+        $words = getWords();
+        $found = false;
+        foreach ($words as &$word) {
+            if ($word['id'] == $wordId) {
+                $word['text'] .= ' -- ' . $textToAppend;
+                $found = true;
+                break;
+            }
+        }
+        if (!$found) {
+            echo json_encode(['success' => false, 'message' => "Word with ID $wordId not found"]);
+            exit;
+        }
+        echo json_encode(saveWords($words));
+        break;
+
+    case 'addWord':
+        $text = $input['text'] ?? null;
+        if ($text === null) {
+            http_response_code(400);
+            echo json_encode(['success' => false, 'message' => 'Missing text parameter']);
+            exit;
+        }
+        $words = getWords();
+        $ids = array_map(fn($w) => intval($w['id']), $words);
+        $newId = (empty($ids) ? 1 : max($ids) + 1);
+        $newWord = [
+            'id' => (string) $newId,
+            'text' => $text,
+            'statuses' => [false, false, false, false],
+        ];
+        $words[] = $newWord;
+        $result = saveWords($words);
+        if ($result['success']) {
+            $result['word'] = $newWord;
+        }
+        echo json_encode($result);
+        break;
+
+    case 'deleteWord':
+        $wordId = $input['wordId'] ?? null;
+        if ($wordId === null) {
+            http_response_code(400);
+            echo json_encode(['success' => false, 'message' => 'Missing wordId parameter']);
+            exit;
+        }
+        $words = getWords();
+        $filtered = array_filter($words, fn($w) => $w['id'] != $wordId);
+        if (count($filtered) === count($words)) {
+            echo json_encode(['success' => false, 'message' => "Word with ID $wordId not found"]);
+            exit;
+        }
+        echo json_encode(saveWords(array_values($filtered)));
+        break;
+
+    case 'importWords':
+        $words = $input['words'] ?? null;
+        if (!is_array($words)) {
+            http_response_code(400);
+            echo json_encode(['success' => false, 'message' => 'Invalid words array']);
+            exit;
+        }
+        echo json_encode(saveWords($words));
+        break;
+
+    default:
+        http_response_code(400);
+        echo json_encode(['success' => false, 'message' => 'Unknown action']);
+        break;
+}
