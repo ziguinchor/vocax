@@ -84,6 +84,7 @@ export default function Home() {
   const [isSortedByEyeClicks, setIsSortedByEyeClicks] = useState(false)
   const isStatusChangeRef = useRef(false)
   const isTextUpdateRef = useRef(false)
+  const isEyeClickRef = useRef(false)
   const { toast } = useToast()
   const itemsPerPage = 15
   const [wordToDelete, setWordToDelete] = useState<string | null>(null)
@@ -144,8 +145,8 @@ export default function Home() {
 
     setFilteredWords(filtered)
 
-    // Only reset to first page when filters change, not during status/text updates
-    if (!isStatusChangeRef.current && !isTextUpdateRef.current) {
+    // Only reset to first page when filters change, not during status/text/eye updates
+    if (!isStatusChangeRef.current && !isTextUpdateRef.current && !isEyeClickRef.current) {
       setCurrentPage(1)
       setIsPagesShuffled(false)
       setShuffledPageOrder([])
@@ -154,6 +155,7 @@ export default function Home() {
     // Reset the flags
     isStatusChangeRef.current = false
     isTextUpdateRef.current = false
+    isEyeClickRef.current = false // Add this line
   }, [searchTerm, words, showArabicOnly, selectedCategoryFilter, showImportantOnly, isSortedByEyeClicks])
 
   const handleStatusChange = async (wordId: string, statusIndex: number, checked: boolean) => {
@@ -199,6 +201,8 @@ export default function Home() {
   }
 
   const handleEyeClick = async (wordId: string) => {
+    isEyeClickRef.current = true // Add this line
+
     // Optimistically update the UI
     const updatedWords = words.map((word) =>
       word.id === wordId ? { ...word, eyeClickCount: (word.eyeClickCount || 0) + 1 } : word,
