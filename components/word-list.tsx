@@ -46,8 +46,9 @@ export default function WordList({
   const [showDuplicates, setShowDuplicates] = useState(false)
 
   // Find duplicated phrases by text
-  const duplicates = words.reduce<{ [text: string]: Word[] }>((acc, word) => {
-    acc[word.text] = acc[word.text] ? [...acc[word.text], word] : [word]
+  const duplicates = words.reduce<{ [normText: string]: Word[] }>((acc, word) => {
+    const normText = word.text.trim().toLowerCase()
+    acc[normText] = acc[normText] ? [...acc[normText], word] : [word]
     return acc
   }, {})
 
